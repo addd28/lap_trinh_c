@@ -5,7 +5,7 @@ int main(){
     scanf("%f", &L);
 
     if (L <= 11) {
-        printf("Ban khong duoc dong T");
+        printf("Ban khong duoc dong thue");
     } else {
         x = L - 11;
         if (x <= 5)
